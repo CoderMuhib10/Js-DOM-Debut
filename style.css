@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+  background-color: black;
+  cursor: pointer;
+}
+.bulb {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  background-color: yellow;
+}
+button {
+  cursor:grab;
+  padding: 10px 20px;
+  font-size: 15px;
+  font-weight: bold;
+  margin-left: 118px;
+  margin-top: 50px;
+}
